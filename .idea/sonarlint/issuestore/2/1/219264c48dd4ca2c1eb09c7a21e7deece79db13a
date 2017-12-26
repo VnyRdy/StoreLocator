@@ -1,0 +1,22 @@
+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Éâö±úÿÿÿÿ8éîûø‡,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇŒ­Ú8ÛåÍõ‡,
+Gsquid:S1068"+Remove this unused "mLayout" private field.(¬ÈÚá8€…›€ˆ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(†º´œ8Üóş‡,
+[squid:UselessImportCheck"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8º°Ãû‡,
+^squid:UnusedPrivateMethod"/Remove this unused private "showDialog" method.(Ò»ß¸úÿÿÿÿ8…Ò‘‚ˆ,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıŠ¾48úú™ü‡,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š ¢½şÿÿÿÿ8úú™ü‡,
+ksquid:UselessImportCheck"CRemove this unused import 'android.support.design.widget.Snackbar'.( À®p8€…›€ˆ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰ôÎ˜üÿÿÿÿ8½ßòˆ,
+rsquid:S1450"VRemove the "mLayout" field and declare it as a local variable in the relevant methods.(¬ÈÚá8€…›€ˆ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ìÑùÿÿÿÿ8éîûø‡,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é¬“âùÿÿÿÿ8éîûø‡,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬•çŠ8éîûø‡,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŸÖµ¸8ÛåÍõ‡,
+Ksquid:S1066"/Merge this if statement with the enclosing one.(…œºà8Ûó¯ù‡,
+osquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(€›¸·şÿÿÿÿ8Õ¤ïˆ,
+dsquid:UselessImportCheck"6Remove this unused import 'android.location.Geocoder'.(¼ö„øÿÿÿÿ8º°Ãû‡,
+Zsquid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8ÉÉ‚ˆ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(»ŠÇ¾ıÿÿÿÿ8ã·¹ş‡,

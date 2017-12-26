@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StoreLocator</string>
+    <string name="store_details">StoreDetails</string>
+</resources>
